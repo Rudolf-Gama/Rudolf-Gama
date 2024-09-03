@@ -10,7 +10,7 @@
   
 - 😄 Pronouns: He/Him
   
-- ⚡ Fun fact: I’ve solved over 200 problems on GeeksforGeeks, and I’m a huge fan of treasure hunts—both in real life and when debugging code!
+- ⚡ Fun fact: I’ve solved over 350 problems on GeeksforGeeks, and I’m a huge fan of treasure hunts—both in real life and when debugging code!
 
 
 <!---
